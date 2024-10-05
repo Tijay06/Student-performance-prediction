@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I’m [Your Name], a passionate data scientist and machine learning enthusiast dedicated to leveraging data to solve real-world problems. This repository showcases my projects, each reflecting my skills in data analysis, predictive modeling, and machine learning.
+Hello! I’m Tijay Poddar, a passionate data scientist and machine learning enthusiast dedicated to leveraging data to solve real-world problems. This repository showcases my projects, each reflecting my skills in data analysis, predictive modeling, and machine learning.
 
 ## Projects Overview
 
